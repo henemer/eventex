@@ -3,6 +3,7 @@
 Sistema de eventos encomendado pela Morena
 
 [![Build Status](https://travis-ci.org/henemer/eventex.svg?branch=master)](https://travis-ci.org/henemer/eventex)
+[![Code Climate](https://codeclimate.com/repos/56a274e912baf76a6d005aab/badges/f0d48b79174227a73cee/gpa.svg)](https://codeclimate.com/repos/56a274e912baf76a6d005aab/feed)
 
 ## Como desenvolver ?
 
